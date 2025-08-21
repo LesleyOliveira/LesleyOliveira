@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**LesleyOliveira/LesleyOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá Prazer, eu sou Lesley de Oliveira 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas tecnologias cotidianas 🧑‍💻
+<br>
+<h2>Java, Html e CSS</h2>
+
+<h3>Cursando:</h3>
+> <h4>Faculdade de ADS</h4>
+> <h4>Técnico de TI</h4>
+<h6>FIEB Jardim Belval</h6>
+
+> <h4> JavaScript Completo</h4>
+<h6>Serliv<h6>
