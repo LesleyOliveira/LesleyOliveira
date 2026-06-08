@@ -1,13 +1,13 @@
 
 ### Olá, eu sou a Lesly Oliveira 👋
 
- - Estagiária em Infraestrutura de Nuvem
+-  Estagiária em Infraestrutura de Nuvem
 
- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na SPTech
+-  Estudante de Análise e Desenvolvimento de Sistemas na SPTech
 
- 💻 Interessada em Cloud Computing, Automação, DevOps e Desenvolvimento Backend
+-  Interessada em Cloud Computing, Automação, DevOps e Desenvolvimento Backend
 
- ⚙️ Buscando aprimorar conhecimentos em infraestrutura, automação de processos e tecnologias em nuvem
+-  Buscando aprimorar conhecimentos em infraestrutura, automação de processos e tecnologias em nuvem
 
 ## 🛠️ Tecnologias
 
