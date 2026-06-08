@@ -1,15 +1,24 @@
 
-### Olá Prazer, eu sou Lesley de Oliveira 😄
+### Olá, eu sou a Lesly Oliveira 👋
 
+ - Estagiária em Infraestrutura de Nuvem
 
-### Minhas tecnologias cotidianas 🧑‍💻
-<br>
-<h2>Java, Html e CSS</h2>
+ 🎓 Estudante de Análise e Desenvolvimento de Sistemas na SPTech
 
-<h3>Cursando:</h3>
-> <h4>Faculdade de ADS</h4>
-> <h4>Técnico de TI</h4>
-<h6>FIEB Jardim Belval</h6>
+ 💻 Interessada em Cloud Computing, Automação, DevOps e Desenvolvimento Backend
 
-> <h4> JavaScript Completo</h4>
-<h6>Serliv<h6>
+ ⚙️ Buscando aprimorar conhecimentos em infraestrutura, automação de processos e tecnologias em nuvem
+
+### 🛠️ Tecnologias
+Java
+JavaScript
+HTML5
+CSS3
+Node.js
+MySQL
+Git & GitHub
+Linux
+
+### 🚀 Objetivos
+
+Atualmente focada em desenvolver habilidades em Cloud, Automação e DevOps, buscando construir soluções eficientes, escaláveis e de impacto.
