@@ -1,4 +1,4 @@
-# Olá, eu sou a Lesley Oliveira 👋
+# Olá, eu sou a Lesly Oliveira 👋
 
 ☁️ Estagiária em Infraestrutura de Nuvem
 
@@ -38,10 +38,3 @@
 * 🐳 Explorando containers e orquestração com Docker e Kubernetes
 * 📊 Trabalhando com monitoramento e observabilidade utilizando Zabbix
 
----
-
-## 📈 Estatísticas GitHub
-
-![Lesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesleyOliveira\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyOliveira\&layout=compact\&theme=tokyonight)
